@@ -1,2 +1,4 @@
-# LovecraftTextGen
-An LSTM model that has been trained on the works of H.P. Lovecraft to generate text in the style of Lovecraft. 
+# H.P. Lovecraft
+
+Text were curated from the website: https://www.hplovecraft.com/writings/texts/
+
